@@ -1,1 +1,2 @@
 This is Dummy.txt
+git pull keyword has to be given in vscode cmd prompt to whatever file has been created in github inside the gitemc1 folder. & and the file will be saved in vscode editor
